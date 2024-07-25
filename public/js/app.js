@@ -1,5 +1,4 @@
-console.log("Server side js file running")
-
+// console.log("Server side js file running")
 const weatherForm = document.querySelector('form')
 const search = document.querySelector('input')
 const messageOne = document.querySelector('#message-1')
